@@ -45,8 +45,8 @@ This repo contains the Decision tree problem.
 2. Clone your fork and enter the repo folder:
 
 ```bash
-git clone https://github.com/<your-username>/ML-Arena-2.git
-cd ML-Arena-2
+git clone https://github.com/<your-username>/ML-Arena-3.git
+cd ML-Arena-3
 ```
 
 3. Create a branch:
